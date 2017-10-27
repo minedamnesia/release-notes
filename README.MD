@@ -1,4 +1,6 @@
-## New Features:
+# BlockApps STRATO Release Notes: 10/27/17
+
+## New Features
  - Apps Tab with a demo lottery app
  - Basic Code Editor
  - Cirrus now supports updating contract definitions
