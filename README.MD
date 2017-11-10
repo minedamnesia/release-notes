@@ -8,41 +8,36 @@ Apps can be launched from _any node_ on the network.
 
 _video demo of this feature is coming soon_
 
-* As a `developer user` I want to register an application on the testnet
+* Ability to register an application on the testnet
 
-* As a user I want to discover existing apps on the testnet
+* Ability to discover existing apps on the testnet
 
-* As a user I would like to see all the dApps in the network in SMD when I got my node synced
+* Microsoft Azure updated with latest images
 
-* Prevent users from deploying dApps with localhost in the URL
+* Ability to see all dApps on the network when nodes are synced
 
-* Update Azure offers to latest images
+* Updated documentation for dApp guide 
 
-* Update dapp-guide (documentation)
+* Updated packaging for lottery-app 
 
-* Update lottery-app packaging
-
-* SMD should construct the dApp url using hash
-
-* add error handling to lottery app
+* Error handling added to lottery app
 
 ## Bug Fixes
 
 * Initial value for "value" in bloc swagger docs is too high, making contract upload fail
 
-* Error while syncing with Testnet - stuck at Block 3966
+* Resolved error while syncing with Testnet - stuck at Block 3966
 
-* Cannot Create users In Developer Demo SMD linked to Site (Create new account)
+* Resolved inability to create users In Developer Demo SMD linked to Site 
 
 * Getting-started fails to init on CentOS - blockapps-bloc: libpq: failed (could not translate host name "postgres" to address
 
-* Timestamp: Invalid Date
-
-* Stuck on Block 191 on Local -> Stratodev connection
+* Fixed timestamp: Invalid Date
 
 * Execute fails Bloc API in Swagger docs - Post - /users/{user}/{address}/send
 
-* incorrect password on contract creation in SMD shows no error
+* Added error handling to incorrect password on contract creation in SMD
+
 
 # BlockApps STRATO Release Notes: 10/27/17
 
