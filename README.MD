@@ -38,18 +38,20 @@ _video demo of this feature is coming soon_
 
 * Added error handling to incorrect password on contract creation in SMD
 
+* Fixed issue code editor contracts not being indexed by cirrus
 
 # BlockApps STRATO Release Notes: 10/27/17
 
 ## New Features
  - Apps Tab with a demo lottery app
- - Basic Code Editor
+ - Basic Code Editor with file management
  - Cirrus now supports updating contract definitions
 
 ## Enhancements
  - Network request progress indicator on SMD
  - SMD no longer tries to get all accounts every 5 seconds
  - Misc performance and usability changes 
+ - Env variable checks for SMD for tracking and app deployment
 
 ## Bug Fixes
  - Bloc gives compiler errors instead of generic 500 on compile issues
