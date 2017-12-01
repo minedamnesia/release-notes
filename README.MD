@@ -1,3 +1,17 @@
+# December 1, 2017 Release Notes
+
+## New Features
+
+* Ensure Data persistence in the Testnet nodes for restarts, fixes and enhancements (upgrades)
+* Perform network upgrade by adding new substitute nodes (code upgrade) - could be laptop or VM's outside the network
+
+## Bug Fixes
+
+* Errors displayed if contract upload fails
+* Discovery fixed to improve node syncing
+* AppMetadata is registered before STRATO start syncing
+
+
 # November 10, 2017 Release Notes
 
 ## New Features 
