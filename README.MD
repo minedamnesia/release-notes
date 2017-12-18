@@ -1,3 +1,21 @@
+# December 15, 2017 Release Notes
+
+## New Features
+
+* Contract Metadata added to STRATO contracts - all dApp metadata is now stored on the blockchain, making it easier for nodes to deliver dApps consistently 
+* Ability to send ABI info to Bloc in order to call methods for contracts not created using Bloc
+* All contracts compiled through Bloc are now indexed by Cirrus automatically
+
+## Bug Fixes
+
+* Error handling added to incorrect password on contract creation 
+* Sync Issue - I start mining on my own chain when reconnecting
+* Passes compilation button but fails when creating contract
+* P2p does not retry to sync if bootnode was unreachable on STRATO init
+* Show proper Solidity Compile errors for SimpleStorage on the SMD Code Editor
+* On Contracts list, contract card gets stretched when method name is long
+
+
 # December 1, 2017 Release Notes
 
 ## New Features
