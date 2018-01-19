@@ -1,3 +1,14 @@
+# January 19, 2018 Release Notes
+
+## New Features
+
+* Improved documentation for BlockApps BA - Supply Chain Demo App. Users were experiencing difficulty deploying our demo app on AWS, so we revised the documentation to make it easier to get started. 
+
+## Bug Fixes 
+
+* Account Detail is blank if address has no associated balance
+* Date on transaction and transaction detail page, on firefox, shows up as Invalid Date
+
 # December 15, 2017 Release Notes
 
 ## New Features
