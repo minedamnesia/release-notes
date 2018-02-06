@@ -2,8 +2,8 @@
 
 ## New Features
 
-* Mobile dApp Store - users can now browse and use blockchain apps deployed to STRATO on their mobile phones. 
-* Lottery dApp rebranded to Charity Raffle - our flagship blockchain app has been rebranded as a charity raffle. Users can create, participate, and win raffles, with the payout donated to the charity of their choice. The app now works as well on mobile as it does on desktop - be sure to take a look.
+* **Mobile dApp Store** - [users can now browse and use blockchain apps deployed to STRATO on their mobile phones.](http://stratodemo1.eastus2.cloudapp.azure.com/dappstore/#/dashboard "Charity App")
+* **Lottery dApp rebranded to Charity Raffle** - our flagship blockchain app has been rebranded as a charity raffle. Users can create, participate, and win raffles, with the payout donated to the charity of their choice. The app now works as well on mobile as it does on desktop - [be sure to take a look.](http://stratodemo1.eastus2.cloudapp.azure.com/dappstore/#/dashboard "Charity App")
 
 ## Bug Fixes
 
