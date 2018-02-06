@@ -9,7 +9,7 @@
 
 * We're continuing to improve the reliability of STRATO deployment on RedHat OpenShift. Our efforts are focused on single-node versions of STRATO, but we're planning to begin performance enhancements on multi-node in an upcoming release. 
 * Method call popup on STRATO dashboard now populates with addresses consistently. Users complained about adding addresses that didn't show up in their dashboard, but this issue is now resolved.
-* Improved gas and ether usage values from STRATO transaction results. Some users we not getting accurate gas and ether values when querying STRATO transaction results. This issue is now resolved.
+* Improved gas and ether usage values from STRATO transaction results. Some users were not getting accurate gas and ether values when querying STRATO transaction results. This issue is now resolved.
 
 
 # January 19, 2018 Release Notes
