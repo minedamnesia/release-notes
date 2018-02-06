@@ -1,3 +1,17 @@
+# February 2, 2018 Release Notes
+
+## New Features
+
+* Mobile dApp Store - users can now browse and use blockchain apps deployed to STRATO on their mobile phones. 
+* Lottery dApp rebranded to Charity Raffle - our flagship blockchain app has been rebranded as a charity raffle. Users can create, participate, and win raffles, with the payout donated to the charity of their choice. The app now works as well on mobile as it does on desktop - be sure to take a look.
+
+## Bug Fixes
+
+* We're continuing to improve the reliability of STRATO deployment on RedHat OpenShift. Our efforts are focused on single-node versions of STRATO, but we're planning to begin performance enhancements on multi-node in an upcoming release. 
+* Method call popup on STRATO dashboard now populates with addresses consistently. Users complained about adding addresses that didn't show up in their dashboard, but this issue is now resolved.
+* Improved gas and ether usage values from STRATO transaction results. Some users we not getting accurate gas and ether values when querying STRATO transaction results. This issue is now resolved.
+
+
 # January 19, 2018 Release Notes
 
 ## New Features
