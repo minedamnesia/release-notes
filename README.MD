@@ -1,3 +1,10 @@
+# February 20, 2018 Release Notes
+
+## New Features
+
+**Token Request Form** - All apps in our launchpad now require tokens for usage. The good news is that they're free (for now). [Simply login to the dashboard and fill out the Token Request Form to receive some app tokens.](https://testnet1.blockapps.net "Token Request Form")
+**Login Functionality Added to Dashboard** - Users can now login to the STRATO Public Dashboard in order to manage their tokens, browse apps, and deploy their own. [See for yourself.]((https://testnet1.blockapps.net "STRATO Public Dashboard")
+
 # February 2, 2018 Release Notes
 
 ## New Features
