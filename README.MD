@@ -2,9 +2,9 @@
 
 ## New Features
 
-* ** STRATO CLI ** - You can now deploy STRATO apps directly from your CLI. Run 'npm install -g strato-cli' to download a sample app and upload it to the testnet. 
+* **STRATO CLI** - You can now deploy STRATO apps directly from your CLI. Run 'npm install -g strato-cli' to download a sample app and upload it to the testnet. 
 
-* ** New User Flow for STRATO Getting Started ** - We revamped our onboarding experience to accomodate our token request form and new CLI. [Get started here](https://stratodev.blockapps.net/dashboard/#/apps?developer)
+* **New User Flow for STRATO Getting Started** - We revamped our onboarding experience to accomodate our token request form and new CLI. [Get started here](https://stratodev.blockapps.net/dashboard/#/apps?developer)
 
 # February 20, 2018 Release Notes
 
