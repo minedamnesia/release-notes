@@ -1,3 +1,16 @@
+# April 6, 2018 Release Notes
+
+## New Features
+
+* **Performance Upgrades** - In an effort to make our blockchain even faster, we devised a method to upload empty contracts in the [genesis block](https://arvanaghi.com/blog/explaining-the-genesis-block-in-ethereum/). This eliminates bottlenecks when uploading hundreds (or thousands) of contracts, such as the case of our [enterprise users](https://blockapps.net/enterprise/). The result? 4,000 contracts uploaded to STRATO in 144 seconds, which translates to 27.7 contracts per minute. Not bad!
+* **Improved Signup Flow** - We updated our signup flow to make it easier to request tokens and launch apps. [Try it out now.](https://stratodev.blockapps.net/dashboard/#/apps?developer)
+
+## Bug Fixes
+
+* **[BlockApps BA is Fixed](https://github.com/blockapps/blockapps-ba)** - Some users were unable to deploy our supply chain demo app. Upon investigation, we discovered a circular dependency between Bloc, our state route API, and Cirrus, our contract indexer. This was fixed by letting Cirrus discover and index contracts on its own, which eliminates the needlessly high number of function calls that were previously being made to the Bloc state route.
+* **Array Members Return Properly in State** Previously, contracts with large arrays produced truncated JSON results. We solved this by paginating Bloc, the state route, and STRATO, the storage route. Now, large arrays return properly formatted JSON.
+* **CLI Instructions Updated**  - We improved our documentation to better distiguish between uploading apps to localhost versus the testnet. [Click here to try the CLI.](https://stratodev.blockapps.net/dashboard/#/apps?developer)
+
 # March 6, 2018 Release Notes
 
 ## New Features
