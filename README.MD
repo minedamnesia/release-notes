@@ -1,4 +1,5 @@
-# April 6, 2018 Release Notes
+# STRATO 3.0 Release Notes
+## April 6, 2018
 
 ## New Features
 
