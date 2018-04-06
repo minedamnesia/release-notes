@@ -2,7 +2,7 @@
 
 ## New Features
 
-* **Performance Upgrades** - In an effort to make our blockchain even faster, we devised a method to upload empty contracts to the [genesis block](https://arvanaghi.com/blog/explaining-the-genesis-block-in-ethereum/). This eliminates bottlenecks when uploading hundreds (or thousands) of contracts, such as the case of our [enterprise users](https://blockapps.net/enterprise/). The result? 4,000 contracts uploaded to STRATO in 144 seconds, which translates to 27.7 contracts per minute. Not bad!
+* **Batch Contract Uploader** - In an effort to make our blockchain even faster, we devised a method to upload empty contracts to the [genesis block](https://arvanaghi.com/blog/explaining-the-genesis-block-in-ethereum/). This eliminates bottlenecks when uploading hundreds (or thousands) of contracts, such as the case of our [enterprise users](https://blockapps.net/enterprise/). The result? 4,000 contracts uploaded to STRATO in 144 seconds, which translates to 27.7 contracts per minute. Not bad!
 * **Improved Signup Flow** - We updated our signup flow to make it easier to request tokens and launch apps. [Try it out now.](https://stratodev.blockapps.net/dashboard/#/apps?developer)
 
 ## Bug Fixes
