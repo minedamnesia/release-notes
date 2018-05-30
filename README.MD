@@ -1,3 +1,20 @@
+# STRATO 3.1 Release Notes
+## May 23, 2018
+
+## New Features
+
+* **Genesis Ingestion Tool** - for Large Record Contract Creation
+Constant memory usage for file creation and storage initalization of ingestion. Added support for hash maps.
+* **Solidity Improvements** - supports constant keyword and variable initalization.
+* **Query Pagination** -
+support for offset and limit when querying Cirrus in order to control response size over large datasets.
+* **Node Performance Improvements** - increased contract creation transactions per second.
+* **Updates to Kafka Library** - Kafka has been upgraded to 1.1.0.
+
+## Updates
+
+* Solidity now enforces the “constant” modifier on variables.  This means that the previous workaround to initialization of constants in the constructor function may not longer work.
+
 # STRATO 3.0 Release Notes
 ## April 6, 2018
 
