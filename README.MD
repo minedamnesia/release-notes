@@ -15,6 +15,10 @@ support for offset and limit when querying Cirrus in order to control response s
 
 * Solidity now enforces the “constant” modifier on variables.  This means that the previous workaround to initialization of constants in the constructor function may not longer work.
 
+## Hotfixes
+* **3.1.1** - includes: minor UI corrections and multinode networking bug fixes
+* **3.1.2** - includes: storage offset bug fix, parsing fixes for contacts, fix to multinode syncing issues, and other small fixes
+
 # STRATO 3.0 Release Notes
 ## April 6, 2018
 
